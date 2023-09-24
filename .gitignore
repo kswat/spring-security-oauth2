@@ -2,3 +2,6 @@
 /.project
 /.settings/**
 /target/**
+/src/react-social/node_modules/**
+/src/react-social/package-lock.json
+/src/react-social/yarn.lock
